@@ -19,7 +19,7 @@ Naval Postgraduate School
 - Masters of Science in Operations Research
 - Expected Graduation June 2027
 
-## Projects
+## Project
 
 Streamlit App for Generating QR Codes
 [Git repo](https://github.com/brookersjb/py_creator_qrcode)
