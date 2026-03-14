@@ -1,19 +1,20 @@
-# brookersjb.github.io
-Samantha Brooker Github Portfolio
+# Samantha Brooker
 
 
-US Air Force Medical Service Corp Officer
+**US Air Force Medical Service Corp Officer**
 
-Interested In: Data Analysis, AI/ML, Data Visualization, Decision Support Tools
+**Interested In:** Data Analysis, AI/ML, Data Visualization, Decision Support Tools
 
-Skills: Python Data Analysis Ecosystem, Leading Developor Teams, Project Management
+**Skills:** Python Data Analysis Ecosystem, Leading Developor Teams, Project Management
 
-Contact Me
-Email: samantha.brooker@nps.edu
+**Contact Me:**
 
-LinkedIn: https://www.linkedin.com/in/sjbrooker/
+**Email:** samantha.brooker@nps.edu
 
-Current Job
+**LinkedIn:** https://www.linkedin.com/in/sjbrooker/
+
+**Current Role:**
+
 Student:
 Naval Postgraduate School
 (June 2025 - present)
@@ -21,4 +22,4 @@ Naval Postgraduate School
 Masters of Science in Operations Research
 Expected Graduation June 2027
 
-Projects
+**Projects**
