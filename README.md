@@ -22,6 +22,7 @@ Naval Postgraduate School
 ## Project
 
 Streamlit App for Generating QR Codes
+
 [Git repo](https://github.com/brookersjb/py_creator_qrcode)
 
 Streamlit dashboard to demonstrate proof of concept. Features custom QR Code creation functionality.
