@@ -10,10 +10,11 @@ Skills: Python Data Analysis Ecosystem, Leading Developor Teams, Project Managem
 
 Contact Me
 Email: samantha.brooker@nps.edu
+
 LinkedIn: https://www.linkedin.com/in/sjbrooker/
 
 Current Job
-Student
+Student:
 Naval Postgraduate School
 (June 2025 - present)
 
